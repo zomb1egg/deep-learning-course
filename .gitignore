@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 data/
 *.flac
-*.pth
+*.txt
+*.7z
